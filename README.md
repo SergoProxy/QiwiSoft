@@ -8,8 +8,22 @@ https://github.com/Emberium/SimpleQIWI
 осужденного за период до двух лет, либо обязательными работами на срок до четырехсот восьмидесяти часов,
 либо исправительными работами на срок до двух лет, либо принудительными работами на срок до пяти лет.
 Так , что думайте сами)))
+
 И так , установка:
+$pkg update
+
+$pkg upgrade
+
 $pkg install python
-$git clone адрес файла
-Запускается так :
+
+$pip install SimpleQIWI
+
+$git clone https://github.com/SeRgEy2701/QiwiSoft.git
+
+Использование:
+
+$cd QiwiSoft 
+
 $python QiwiSoft.pyc
+
+
